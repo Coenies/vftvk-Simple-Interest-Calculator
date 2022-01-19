@@ -8,4 +8,7 @@ h1{color:grey; font-family: Verdana;}
     width:300px;
     align:center;
 }
-
+.number{
+    color:yellow;
+    font-weight: 300;
+}
